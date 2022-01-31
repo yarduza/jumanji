@@ -1,0 +1,16 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="go build Main-Project-1-Go/src/server" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
+    <module name="Go-Server-Template" />
+    <working_directory value="$PROJECT_DIR$" />
+    <useCustomBuildTags value="true" />
+    <envs>
+      <env name="LOCALHOST" value="true" />
+      <env name="STRIPE_TEST" value="true" />
+    </envs>
+    <kind value="PACKAGE" />
+    <package value="Main-Project-1-Go/src/server" />
+    <directory value="$PROJECT_DIR$/src/server" />
+    <filePath value="$PROJECT_DIR$" />
+    <method v="2" />
+  </configuration>
+</component>
